@@ -60,7 +60,7 @@ a{
 }
 
 
-@media (min-width: 768px) and (max-width: 1380px) {
+@media (min-width: 680px) and (max-width: 1380px) {
     width: 48%;
     max-width: calc(1380px - 100px / 2);
 }
