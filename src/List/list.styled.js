@@ -15,15 +15,15 @@ export const ListFunctionalItem = styled.li`
   border: 2px solid var(--border-color-1);
   box-sizing: border-box; 
 
-&:nth-child(2n){
+&:nth-child(4n+2){
     border-color: var(--border-color-2);
 }
 
-&:nth-child(3n){
+&:nth-child(4n+3){
     border-color: var(--border-color-3);
 }
 
-&:nth-child(4n){
+&:nth-child(4n+4){
     border-color: var(--border-color-4);
 }
 

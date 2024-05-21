@@ -6,7 +6,6 @@ import { DescriptionLists, ListFunctional, ListFunctionalItem } from './list.sty
 
 
 const List = () => {
-    console.log(ItemInfo);
   return (
       <div>
           <ListFunctional>
